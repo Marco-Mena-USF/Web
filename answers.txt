@@ -1,0 +1,15 @@
+1. Http is hyper text transfer protocol, usually the beginning of a website
+2. URL is the web address of websites
+3. DNS Stands for domain network systems, a basic phonebook of the internet
+4. Query string is a list of values that can pass key values
+5. Post- send data to the server (most commonly in form)
+   Delete- removes data usually sent in payloard format
+6. HTTP request is when you attempt to connect to a website
+7. http response is the response given
+8. http://curric.rithmschool.com/
+
+
+
+Part II
+1. curl https://icanhazdadjoke.com/
+2. 192.168.128.1#53(192.168.128.1)
